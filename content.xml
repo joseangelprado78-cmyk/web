@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260504183533PB5BXE</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605041835339O0P9O</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>CONCRECCIÓN CURRICULAR de la SdA (Guía docente) </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777909939179</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mor1ykb6-71odaedy6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sonadores que nos unen</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sonadores que nos unen</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Título. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sonadores que nos unen</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor1ykb6-71odaedy6</odePageId>
+      <odeBlockId>block-1775669566577-s6pb2ayfq</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykb6-71odaedy6</odePageId>
+          <odeBlockId>block-1775669566577-s6pb2ayfq</odeBlockId>
+          <odeIdeviceId>idevice-1775669566575-ew9appoeo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Etapa educativa</strong>: Educación Secundaria Obligatoria</p>
+<p><strong>Nivel</strong>: 1º de ESO</p>
+<p><strong>Materia</strong>: Música</p>
+<p><strong>Áreas implicadas</strong>: Geografía e Historia y Lengua extranjera Inglés</p>
+<p><strong>Agrupamientos</strong>:</p>
+<p>Gran grupo<br />Trabajo individual<br />Cooperativo puntual</p>
+<p><strong>Temporalización</strong>: Tercer trimestre, 6 sesiones de 55 minutos.</p>
+<p>La secuenciación didáctica se detallará en la SA para el alumnado.</p>
+<p><strong>Organización espacial</strong>:</p>
+<ul>
+<li>Aula de referencia</li>
+<li>Aula de Música</li>
+<li>Aula de informática</li>
+<li>Biblioteca escolar<br /></li>
+</ul>
+<p><strong>Productos exigidos al alumnado</strong>:</p>
+<ul>
+<li><span style="background-color: #ffffff;">Infografía interactiva sobre el voluntariado</span></li>
+<li><span style="background-color: #ffffff;">Podcast o vídeo explicativo del proceso creativo</span><br /></li>
+</ul>
+<p><strong>Herramientas tecnológicas</strong>:<br />Canva, Genially, Audacity, YouTube educativo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775669566575-ew9appoeo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Etapa educativa</strong>: Educación Secundaria Obligatoria</p>\n<p><strong>Nivel</strong>: 1º de ESO</p>\n<p><strong>Materia</strong>: Música</p>\n<p><strong>Áreas implicadas</strong>: Geografía e Historia y Lengua extranjera Inglés</p>\n<p><strong>Agrupamientos</strong>:</p>\n<p>Gran grupo<br />Trabajo individual<br />Cooperativo puntual</p>\n<p><strong>Temporalización</strong>: Tercer trimestre, 6 sesiones de 55 minutos.</p>\n<p>La secuenciación didáctica se detallará en la SA para el alumnado.</p>\n<p><strong>Organización espacial</strong>:</p>\n<ul>\n<li>Aula de referencia</li>\n<li>Aula de Música</li>\n<li>Aula de informática</li>\n<li>Biblioteca escolar<br /></li>\n</ul>\n<p><strong>Productos exigidos al alumnado</strong>:</p>\n<ul>\n<li><span style=\"background-color: #ffffff;\">Infografía interactiva sobre el voluntariado</span></li>\n<li><span style=\"background-color: #ffffff;\">Podcast o vídeo explicativo del proceso creativo</span><br /></li>\n</ul>\n<p><strong>Herramientas tecnológicas</strong>:<br />Canva, Genially, Audacity, YouTube educativo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor1ykbo-1a53h8c4o</odePageId>
+  <odeParentPageId>page-mor1ykb6-71odaedy6</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor1ykbo-1a53h8c4o</odePageId>
+      <odeBlockId>block-1777887913893-t1ilkq96d</odeBlockId>
+      <blockName>Justificación e impacto esperado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykbo-1a53h8c4o</odePageId>
+          <odeBlockId>block-1777887913893-t1ilkq96d</odeBlockId>
+          <odeIdeviceId>idevice-1777887913889-d23ebku5e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta situación de aprendizaje pretende fomentar en el alumnado la conciencia de que la música es común a toda la humanidad, independientemente del lugar donde se haya nacido.</p>
+<p>En la época actual, marcada por la polarización y el etnocentrismo, se pretende fomentar entre los alumnos y alumnas la valoración de otras culturas del mundo diferentes a la nuestra a través del descubrimiento de instrumentos musicales que, a pesar de tener nombres y formas diferentes a los que les son más conocidos, no difieren tanto en su funcionamiento y en los usos que les dan los diversos pueblos.</p>
+<p>Con todo, se buscará combatir los estereotipos y los mensajes racistas y xenófobos que, desgraciadamente, acechan a nuestro alumnado a través de los medios digitales que consumen, especialmente las redes sociales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777887913889-d23ebku5e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta situación de aprendizaje pretende fomentar en el alumnado la conciencia de que la música es común a toda la humanidad, independientemente del lugar donde se haya nacido.</p>\n<p>En la época actual, marcada por la polarización y el etnocentrismo, se pretende fomentar entre los alumnos y alumnas la valoración de otras culturas del mundo diferentes a la nuestra a través del descubrimiento de instrumentos musicales que, a pesar de tener nombres y formas diferentes a los que les son más conocidos, no difieren tanto en su funcionamiento y en los usos que les dan los diversos pueblos.</p>\n<p>Con todo, se buscará combatir los estereotipos y los mensajes racistas y xenófobos que, desgraciadamente, acechan a nuestro alumnado a través de los medios digitales que consumen, especialmente las redes sociales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor1ykbo-1a53h8c4o</odePageId>
+      <odeBlockId>block-1777888837718-u4npmlijk</odeBlockId>
+      <blockName>Relación de la SdA con los ODS y Retos del siglo XXI</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykbo-1a53h8c4o</odePageId>
+          <odeBlockId>block-1777888837718-u4npmlijk</odeBlockId>
+          <odeIdeviceId>idevice-1777888837714-1palwf7ge</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>ODS vinculados</strong>:</p>
+<ul>
+<li>ODS 1: Fin de la pobreza</li>
+<li>ODS 3: Salud y bienestar</li>
+<li>ODS 4: Educación de calidad</li>
+<li>ODS 5: Igualdad de género</li>
+<li>ODS 10: Reducción de las desigualdades<br /></li>
+<li>ODS 11: Ciudades y comunidades sostenibles</li>
+<li>ODS 16: Paz, justicia e instituciones sólidas</li>
+</ul>
+<p><strong>Retos del siglo XXI</strong>:</p>
+<ul>
+<li>Educación en valores y ciudadanía activa</li>
+<li>Resolver conflictos de forma pacífica</li>
+<li>Comunicación ética y pensamiento crítico en entornos digitales</li>
+<li>Creatividad y sostenibilidad</li>
+<li>Promover la igualdad de género</li>
+<li>Identificar situaciones de inequidad y desarrollar sentimientos de empatía</li>
+<li>Cooperar y convivir en una sociedad diversa</li>
+<li>Uso responsable y solidario de la tecnología</li>
+<li>Adquirir confianza en el conocimiento como motor del desarrollo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777888837714-1palwf7ge","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>ODS vinculados</strong>:</p>\n<ul>\n<li>ODS 1: Fin de la pobreza</li>\n<li>ODS 3: Salud y bienestar</li>\n<li>ODS 4: Educación de calidad</li>\n<li>ODS 5: Igualdad de género</li>\n<li>ODS 10: Reducción de las desigualdades<br /></li>\n<li>ODS 11: Ciudades y comunidades sostenibles</li>\n<li>ODS 16: Paz, justicia e instituciones sólidas</li>\n</ul>\n<p><strong>Retos del siglo XXI</strong>:</p>\n<ul>\n<li>Educación en valores y ciudadanía activa</li>\n<li>Resolver conflictos de forma pacífica</li>\n<li>Comunicación ética y pensamiento crítico en entornos digitales</li>\n<li>Creatividad y sostenibilidad</li>\n<li>Promover la igualdad de género</li>\n<li>Identificar situaciones de inequidad y desarrollar sentimientos de empatía</li>\n<li>Cooperar y convivir en una sociedad diversa</li>\n<li>Uso responsable y solidario de la tecnología</li>\n<li>Adquirir confianza en el conocimiento como motor del desarrollo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor1ykbp-6ognut6n1</odePageId>
+  <odeParentPageId>page-mor1ykb6-71odaedy6</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor1ykbp-6ognut6n1</odePageId>
+      <odeBlockId>block-1777891312741-phg8s02hx</odeBlockId>
+      <blockName>Competencias clave, competencias específicas y criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykbp-6ognut6n1</odePageId>
+          <odeBlockId>block-1777891312741-phg8s02hx</odeBlockId>
+          <odeIdeviceId>idevice-1777891312735-i9ce7yahe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><br /></p>
+<table border="1" style="width: 100%; height: 330px; border-color: #000000; border-style: double;">
+<tbody>
+<tr style="height: 33px;">
+<td style="width: 33.3333%; height: 33px; background-color: #bfedd2; border: 1px solid #000000; text-align: center;"><strong>Competencias específicas</strong></td>
+<td style="width: 33.3333%; height: 33px; background-color: #bfedd2; border: 1px solid #000000; text-align: center;"><strong>Criterios de evaluación</strong></td>
+<td style="width: 33.3333%; height: 33px; background-color: #bfedd2; border: 1px solid #000000; text-align: center;"><strong>Competencias clave</strong></td>
+</tr>
+<tr style="height: 33px;">
+<td style="height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;" rowspan="3">
+<p><span style="text-decoration: underline;">Competencia específica 1</span>. Analizar obras de diferentes épocas y culturas, identificando sus principales rasgos estilísticos y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de disfrute y enriquecimiento personal.</p>
+<p><br /></p>
+</td>
+<td style="width: 33.3333%; height: 33px; border: 1px solid #000000;">1.1 Identificar los principales rasgos estilísticos de obras musicales y dancísticas de diferentes épocas y culturas, evidenciando una actitud de apertura, interés y respeto en la escucha o el visionado de las mismas.</td>
+<td style="height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;" rowspan="3">
+<p>1.1: CCL2, CCEC1</p>
+<p><br />1.2: CCL3, CD1, CD2, CPSAA3, CCEC2</p>
+<p><br />1.3: CCL2, CP3, CC1, CCEC1, CCEC2</p>
+</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.3333%; height: 33px; border: 1px solid #000000;">1.2 Explicar, con actitud abierta y respetuosa, las funciones desempeñadas por determinadas producciones musicales y dancísticas, relacionándolas con las principales características de su contexto histórico, social y cultural.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.3333%; height: 33px; border: 1px solid #000000;">1.3 Establecer conexiones entre manifestaciones musicales y dancísticas de diferentes épocas y culturas, valorando su influencia sobre la música y la danza actuales.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;" rowspan="3"><span style="text-decoration: underline;">Competencia específica 3</span>. Interpretar piezas musicales y dancísticas, gestionando adecuadamente las emociones y empleando diversas estrategias y técnicas vocales, corporales o instrumentales, para ampliar las posibilidades de expresión personal.</td>
+<td style="width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;">3.1 Leer partituras sencillas, identificando de forma guiada los elementos básicos del lenguaje musical, con o sin apoyo de la audición.</td>
+<td style="height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;" rowspan="3">
+<p>3.1: CCL1</p>
+<p><br />3.2: CD2, CPSAA1, CC1, CCEC3</p>
+<p><br />3.3: CPSAA1, CPSAA3, CC1, CCEC3</p>
+<p><br /></p>
+</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;">3.2 Emplear técnicas básicas de interpretación vocal, corporal o instrumental, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha y aprendizaje.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;">3.3 Interpretar con corrección piezas musicales y dancísticas sencillas, individuales y grupales, dentro y fuera del aula, gestionando de forma guiada la ansiedad y el miedo escénico, y manteniendo la concentración.</td>
+</tr>
+<tr style="height: 33px;">
+<td style="height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;" rowspan="2"><span style="text-decoration: underline;">Competencia específica 4</span>. Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas, para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y profesional.</td>
+<td style="width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;">4.1 Planificar y desarrollar, con creatividad, propuestas artístico-musicales, tanto individuales como colaborativas, empleando medios musicales y dancísticos, así como herramientas analógicas y digitales.</td>
+<td style="height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;" rowspan="2">
+<p>4.1: CCL1, STEM3, CD2, CPSAA3, CE1, CCEC3, CCEC4</p>
+<p><br /></p>
+<p>4.2: CD2, CPSAA3, CC1, CE3, CCEC3, CCEC4</p>
+</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;">4.2 Participar activamente en la planificación y en la ejecución de propuestas artístico-musicales colaborativas, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777891312735-i9ce7yahe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 330px; border-color: #000000; border-style: double;\">\n<tbody>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.3333%; height: 33px; background-color: #bfedd2; border: 1px solid #000000; text-align: center;\"><strong>Competencias específicas</strong></td>\n<td style=\"width: 33.3333%; height: 33px; background-color: #bfedd2; border: 1px solid #000000; text-align: center;\"><strong>Criterios de evaluación</strong></td>\n<td style=\"width: 33.3333%; height: 33px; background-color: #bfedd2; border: 1px solid #000000; text-align: center;\"><strong>Competencias clave</strong></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;\" rowspan=\"3\">\n<p><span style=\"text-decoration: underline;\">Competencia específica 1</span>. Analizar obras de diferentes épocas y culturas, identificando sus principales rasgos estilísticos y estableciendo relaciones con su contexto, para valorar el patrimonio musical y dancístico como fuente de disfrute y enriquecimiento personal.</p>\n<p><br /></p>\n</td>\n<td style=\"width: 33.3333%; height: 33px; border: 1px solid #000000;\">1.1 Identificar los principales rasgos estilísticos de obras musicales y dancísticas de diferentes épocas y culturas, evidenciando una actitud de apertura, interés y respeto en la escucha o el visionado de las mismas.</td>\n<td style=\"height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;\" rowspan=\"3\">\n<p>1.1: CCL2, CCEC1</p>\n<p><br />1.2: CCL3, CD1, CD2, CPSAA3, CCEC2</p>\n<p><br />1.3: CCL2, CP3, CC1, CCEC1, CCEC2</p>\n</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.3333%; height: 33px; border: 1px solid #000000;\">1.2 Explicar, con actitud abierta y respetuosa, las funciones desempeñadas por determinadas producciones musicales y dancísticas, relacionándolas con las principales características de su contexto histórico, social y cultural.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.3333%; height: 33px; border: 1px solid #000000;\">1.3 Establecer conexiones entre manifestaciones musicales y dancísticas de diferentes épocas y culturas, valorando su influencia sobre la música y la danza actuales.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;\" rowspan=\"3\"><span style=\"text-decoration: underline;\">Competencia específica 3</span>. Interpretar piezas musicales y dancísticas, gestionando adecuadamente las emociones y empleando diversas estrategias y técnicas vocales, corporales o instrumentales, para ampliar las posibilidades de expresión personal.</td>\n<td style=\"width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;\">3.1 Leer partituras sencillas, identificando de forma guiada los elementos básicos del lenguaje musical, con o sin apoyo de la audición.</td>\n<td style=\"height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;\" rowspan=\"3\">\n<p>3.1: CCL1</p>\n<p><br />3.2: CD2, CPSAA1, CC1, CCEC3</p>\n<p><br />3.3: CPSAA1, CPSAA3, CC1, CCEC3</p>\n<p><br /></p>\n</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;\">3.2 Emplear técnicas básicas de interpretación vocal, corporal o instrumental, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha y aprendizaje.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;\">3.3 Interpretar con corrección piezas musicales y dancísticas sencillas, individuales y grupales, dentro y fuera del aula, gestionando de forma guiada la ansiedad y el miedo escénico, y manteniendo la concentración.</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;\" rowspan=\"2\"><span style=\"text-decoration: underline;\">Competencia específica 4</span>. Crear propuestas artístico-musicales, empleando la voz, el cuerpo, instrumentos musicales y herramientas tecnológicas, para potenciar la creatividad e identificar oportunidades de desarrollo personal, social, académico y profesional.</td>\n<td style=\"width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;\">4.1 Planificar y desarrollar, con creatividad, propuestas artístico-musicales, tanto individuales como colaborativas, empleando medios musicales y dancísticos, así como herramientas analógicas y digitales.</td>\n<td style=\"height: 33px; width: 33.3333%; vertical-align: top; border: 1px solid #000000;\" rowspan=\"2\">\n<p>4.1: CCL1, STEM3, CD2, CPSAA3, CE1, CCEC3, CCEC4</p>\n<p><br /></p>\n<p>4.2: CD2, CPSAA3, CC1, CE3, CCEC3, CCEC4</p>\n</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 33.3333%; height: 33px; vertical-align: top; border: 1px solid #000000;\">4.2 Participar activamente en la planificación y en la ejecución de propuestas artístico-musicales colaborativas, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor1ykbp-6ognut6n1</odePageId>
+      <odeBlockId>block-1777893249951-hh6ibcjl9</odeBlockId>
+      <blockName>Saberes básicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykbp-6ognut6n1</odePageId>
+          <odeBlockId>block-1777893249951-hh6ibcjl9</odeBlockId>
+          <odeIdeviceId>idevice-1777893249945-6x6uboyow</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>A.2. Obras musicales y dancísticas: análisis, descripción y valoración de sus características básicas. Géneros de la música y la danza.</li>
+<li>A.3. Voces e instrumentos: clasificación general de los instrumentos por familias y características. Agrupaciones.</li>
+<li>A.4. Compositores y compositoras, artistas e intérpretes internacionales, nacionales, regionales y locales.</li>
+<li>A.5. Conciertos, actuaciones musicales y otras manifestaciones artístico-musicales en vivo y registradas.</li>
+<li>A.6. Mitos, estereotipos y roles de género transmitidos a través de la música y la danza.</li>
+<li>A.8. Estrategias de búsqueda, selección y reelaboración de información fiable, pertinente y de calidad.</li>
+<li>A.9. Normas de comportamiento básicas en la recepción musical: respeto y valoración.</li>
+<li>B.3. Principales géneros musicales y escénicos del patrimonio cultural.</li>
+<li>B.4. Repertorio vocal, instrumental o corporal individual o grupal de distintos tipos de música del patrimonio musical propio y de otras culturas.</li>
+<li>B.10. Normas de comportamiento y participación en actividades musicales.</li>
+<li>C.1. Historia de la música y de la danza occidental: periodos, características, géneros, voces, instrumentos y agrupaciones.</li>
+<li>C.2. Las músicas tradicionales en el mundo y su diversidad cultural: instrumentos, canciones, danzas y bailes.</li>
+<li>C.4. Músicas populares, urbanas y contemporáneas.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777893249945-6x6uboyow","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>A.2. Obras musicales y dancísticas: análisis, descripción y valoración de sus características básicas. Géneros de la música y la danza.</li>\n<li>A.3. Voces e instrumentos: clasificación general de los instrumentos por familias y características. Agrupaciones.</li>\n<li>A.4. Compositores y compositoras, artistas e intérpretes internacionales, nacionales, regionales y locales.</li>\n<li>A.5. Conciertos, actuaciones musicales y otras manifestaciones artístico-musicales en vivo y registradas.</li>\n<li>A.6. Mitos, estereotipos y roles de género transmitidos a través de la música y la danza.</li>\n<li>A.8. Estrategias de búsqueda, selección y reelaboración de información fiable, pertinente y de calidad.</li>\n<li>A.9. Normas de comportamiento básicas en la recepción musical: respeto y valoración.</li>\n<li>B.3. Principales géneros musicales y escénicos del patrimonio cultural.</li>\n<li>B.4. Repertorio vocal, instrumental o corporal individual o grupal de distintos tipos de música del patrimonio musical propio y de otras culturas.</li>\n<li>B.10. Normas de comportamiento y participación en actividades musicales.</li>\n<li>C.1. Historia de la música y de la danza occidental: periodos, características, géneros, voces, instrumentos y agrupaciones.</li>\n<li>C.2. Las músicas tradicionales en el mundo y su diversidad cultural: instrumentos, canciones, danzas y bailes.</li>\n<li>C.4. Músicas populares, urbanas y contemporáneas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor1ykbq-2ivaeze6z</odePageId>
+  <odeParentPageId>page-mor1ykb6-71odaedy6</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor1ykbq-2ivaeze6z</odePageId>
+      <odeBlockId>block-1777893855564-pcqzf92bu</odeBlockId>
+      <blockName>Estrategias metodológicas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykbq-2ivaeze6z</odePageId>
+          <odeBlockId>block-1777893855564-pcqzf92bu</odeBlockId>
+          <odeIdeviceId>idevice-1777893855557-dqpqncakl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Aprendizaje y Servicio (APS)</strong></li>
+</ul>
+<p>Desarrollo de un proyecto con implicaciones de mejora en la comunidad, incluyendo competencias, valores, responsabilidades, actitud crítica, esfuerzo y compromiso social.</p>
+<p><br /></p>
+<ul>
+<li><strong>Aprendizaje Basado en Proyectos (ABP)</strong></li>
+</ul>
+<p>Desarrollo de un proyecto artístico-musical con finalidad social.</p>
+<p><br /></p>
+<ul>
+<li><em><strong>Design Thinking</strong></em></li>
+</ul>
+<p>Desarrollo de un proyecto que permite desarrollar soluciones centradas en las personas</p>
+<p><br /></p>
+<ul>
+<li><strong>Explicación guiada en gran grupo</strong></li>
+</ul>
+<p>Introducción teórica y debate</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777893855557-dqpqncakl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Aprendizaje y Servicio (APS)</strong></li>\n</ul>\n<p>Desarrollo de un proyecto con implicaciones de mejora en la comunidad, incluyendo competencias, valores, responsabilidades, actitud crítica, esfuerzo y compromiso social.</p>\n<p><br /></p>\n<ul>\n<li><strong>Aprendizaje Basado en Proyectos (ABP)</strong></li>\n</ul>\n<p>Desarrollo de un proyecto artístico-musical con finalidad social.</p>\n<p><br /></p>\n<ul>\n<li><em><strong>Design Thinking</strong></em></li>\n</ul>\n<p>Desarrollo de un proyecto que permite desarrollar soluciones centradas en las personas</p>\n<p><br /></p>\n<ul>\n<li><strong>Explicación guiada en gran grupo</strong></li>\n</ul>\n<p>Introducción teórica y debate</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor1ykbq-ubakz99ly</odePageId>
+  <odeParentPageId>page-mor1ykb6-71odaedy6</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del Centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del Centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del Centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Vinculación con los proyectos y programas del Centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor1ykbq-ubakz99ly</odePageId>
+      <odeBlockId>block-1777895103347-glmkidpzl</odeBlockId>
+      <blockName>Esta situación de aprendizaje se vincula con:</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykbq-ubakz99ly</odePageId>
+          <odeBlockId>block-1777895103347-glmkidpzl</odeBlockId>
+          <odeIdeviceId>idevice-1777895103344-nwkaknmcs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Proyecto de Biblioteca Escolar</strong>:</li>
+</ul>
+<p>Mediante el uso de recursos documentales para la investigación y la búsqueda de información y fuentes documentales.</p>
+<ul>
+<li><strong>Plan de Acción Tutorial</strong>:</li>
+</ul>
+<p>Mediante el desarrollo de valores de convivencia, solidaridad, empatía y cooperación.</p>
+<ul>
+<li><strong>Proyecto TIC</strong>:</li>
+</ul>
+<p>Mediante la integración de herramientas digitales de creación y difusión en el proceso creativo.</p>
+<ul>
+<li><strong>PLEI</strong>:</li>
+</ul>
+<p>Mediante la integración de la música como herramienta para crear proyectos con impacto social que conectan al alumnado con las realidades socio-culturales de otras culturas del mundo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777895103344-nwkaknmcs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Proyecto de Biblioteca Escolar</strong>:</li>\n</ul>\n<p>Mediante el uso de recursos documentales para la investigación y la búsqueda de información y fuentes documentales.</p>\n<ul>\n<li><strong>Plan de Acción Tutorial</strong>:</li>\n</ul>\n<p>Mediante el desarrollo de valores de convivencia, solidaridad, empatía y cooperación.</p>\n<ul>\n<li><strong>Proyecto TIC</strong>:</li>\n</ul>\n<p>Mediante la integración de herramientas digitales de creación y difusión en el proceso creativo.</p>\n<ul>\n<li><strong>PLEI</strong>:</li>\n</ul>\n<p>Mediante la integración de la música como herramienta para crear proyectos con impacto social que conectan al alumnado con las realidades socio-culturales de otras culturas del mundo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor1ykbq-hv29atu7z</odePageId>
+  <odeParentPageId>page-mor1ykb6-71odaedy6</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor1ykbq-hv29atu7z</odePageId>
+      <odeBlockId>block-1777895730660-ma09l7jyg</odeBlockId>
+      <blockName>Otras actividades</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykbq-hv29atu7z</odePageId>
+          <odeBlockId>block-1777895730660-ma09l7jyg</odeBlockId>
+          <odeIdeviceId>idevice-1777895730656-i5324b7ea</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Invitación al centro de un grupo de percusión africana (pendiente de confirmar).</li>
+<li>Exposición en el centro educativo de las infografías elaboradas.</li>
+<li>Difusión en redes o web del centro como muestra del compromiso social del alumnado.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777895730656-i5324b7ea","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Invitación al centro de un grupo de percusión africana (pendiente de confirmar).</li>\n<li>Exposición en el centro educativo de las infografías elaboradas.</li>\n<li>Difusión en redes o web del centro como muestra del compromiso social del alumnado.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mor1ykbq-t78edwn3z</odePageId>
+  <odeParentPageId>page-mor1ykb6-71odaedy6</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mor1ykbq-t78edwn3z</odePageId>
+      <odeBlockId>block-1777895895938-epagceskj</odeBlockId>
+      <blockName>Licencia Creative Comons</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykbq-t78edwn3z</odePageId>
+          <odeBlockId>block-1777895895938-epagceskj</odeBlockId>
+          <odeIdeviceId>idevice-1777895895935-m812t8ibj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Sonadores que nos unen © 2026 by José Ángel Prado is licensed under Creative Commons Attribution-ShareAlike 4.0 International   </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777895895935-m812t8ibj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Sonadores que nos unen © 2026 by José Ángel Prado is licensed under Creative Commons Attribution-ShareAlike 4.0 International   </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mor1ykbq-t78edwn3z</odePageId>
+      <odeBlockId>block-1777912376050-8labjj9ac</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mor1ykbq-t78edwn3z</odePageId>
+          <odeBlockId>block-1777912376050-8labjj9ac</odeBlockId>
+          <odeIdeviceId>idevice-1777912376044-k6t76g7xi</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">CONCRECCIÓN CURRICULAR de la SdA (Guía docente) </span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
